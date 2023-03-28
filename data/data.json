@@ -1,5 +1,12 @@
 [
     {
+        "url":"https://www.inverse.com/gaming/nintendo-eshop-closure-3ds-wii-u",
+        "icon":"block.svg",
+        "date":'2022-02-16',
+        "name":"Game preservation is not a top priority for Nintendo.",
+        "desciption": "The Foundation’s statement also points out that Nintendo is a paying member of the Entertainment Software Association (ESA) and “actively funds lobbying that prevents even libraries from being able to provide legal access to these games."
+    },
+    {
         "url": "https://web.archive.org/web/20221101200442/https://twitter.com/OctoboyYT/status/1587346400366546945",
         "icon": "block.svg",
         "date": "2022-11-01",
@@ -8,7 +15,7 @@
     },
     {
         "url": "https://www.nintendolife.com/news/2022/06/youtuber-ends-metroid-prime-music-covers-after-nintendos-lawyers-call",
-        "icon":"block.svg",
+        "icon": "block.svg",
         "date": "2022-06-14",
         "name": "Metroid Prime covers were removed from Youtube",
         "description": "Covers and remixes of Metroid Prime music were removed after the owner of these videos was contacted by a lawyer from Nintendo asking them to remove them."
@@ -24,35 +31,35 @@
         "url": "https://www.eurogamer.net/nintendo-shutting-its-pokemon-diamond-and-pearl-sound-library",
         "icon": "block.svg",
         "date": "2022-05-30",
-        "name": "Nintendo closses the DP sound library months after it's launch",
+        "name": "Nintendo closes the DP sound library months after its launch",
         "description": "In February 2022 Nintendo created a sound library for the music of Pokemon Diamond and Pearl. 3 months later they decided to close the service."
     },
     {
         "url": "https://www.nintendolife.com/news/2022/03/nintendo-issues-copyright-strike-against-scanned-super-mario-64-guide-from-1996",
         "icon":"block.svg",
         "date":"2022-03-25",
-        "name":"Nintendo issued a takedown on scans of a SM64 guide",
-        "description": "Scans of a japanese Super Mario 64 strategy guide from 1996 were uploaded to archive.org. Nintendo issued a copyright takedown and the scans were removed."
+        "name":"Nintendo issued a takedown on scans of an SM64 guide",
+        "description": "Scans of a Japanese Super Mario 64 strategy guide from 1996 were uploaded to archive.org. Nintendo issued a copyright takedown and the scans were removed."
     },
     {
         "url": "https://www.eurogamer.net/articles/2022-03-03-steam-deck-nintendo-emulation-videos-are-disappearing-from-youtube",
         "icon":"block.svg",
         "date":"2022-03-03",
         "name":"Steam Deck videos removed by Nintendo",
-        "description": "Videos on Youtube showing the Steam Deck (Valve's first handheld console) emulating Switch games, were apparently taken down by Nintendo."
+        "description": "Videos on Youtube showing the Steam Deck (Valve's first handheld console) emulating Switch games, was apparently taken down by Nintendo."
     },
     {
         "url": "https://web.archive.org/web/20220227153917/https://twitter.com/EVO/status/1497662793897721860",
         "icon":"block.svg",
         "date":"2022-02-26",
         "name":"Nintendo removed Smash from Evo",
-        "description": "The organizers at Evo (The Evolution Championship Series) made a tweet stating that Nintendo decided to removed the Smash tournament from the lineup of games on 2022."
+        "description": "The organizers at Evo (The Evolution Championship Series) made a tweet stating that Nintendo decided to remove the Smash tournament from the lineup of games in 2022."
     },
     {
         "url": "https://exputer.com/news/nintendo/nintendo-wii-u-3ds-eshop-shut-down/",
         "icon":"block.svg",
         "date":"2022-02-16",
-        "name":"The eShop for the 3DS and Wii U will shut down on 2023",
+        "name":"The eShop for the 3DS and Wii U will shut down in 2023",
         "description": "Nintendo announced the eShop services for the 3DS and Wii U consoles will be closing down in March 2023. Only already purchased games will be available to download once the date arrives."
     },
     {
@@ -60,7 +67,7 @@
         "icon":"block.svg",
         "date":"2022-02-03",
         "name":"Youtube channel received over 2,200 \"copyright blocks\"",
-        "description":"The GilvaSunner youtube channel used to post videogame music soundtracks, it received more than 2,200 \"copyright blocks\" from Nintendo, forcing the owner of the channel to remove the the channel."
+        "description":"The GilvaSunner youtube channel used to post videogame music soundtracks, it received more than 2,200 \"copyright blocks\" from Nintendo, forcing the owner of the channel to remove the channel."
     },
     {
         "url": "https://gamerant.com/pokemon-fps-game-footage-videos-nintendo-takedown/",
@@ -99,7 +106,7 @@
     },
     {
         "url": "https://gamerant.com/metroid-prime-2d-fan-game-shut-down/",
-        "icon":"block.svg",
+        "icon":"block.svg",Nintendo's
         "date":"2021-08-27",
         "name":"2D Prime is discontinued",
         "description": "A certain games-related company asked the team behind the fan game \"Prime 2D\" to discontinue their work on their game. They removed the download links for the game as well as the download links for the music."
@@ -108,14 +115,13 @@
         "url": "https://www.ign.com/articles/now-defunct-romuniverse-ordered-to-destroy-all-pirated-nintendo-games",
         "icon":"block.svg",
         "date":"2021-08-14",
-        "name":"RomUniverse owner is ordered to destroy it's pirated games",
-        "description": "The owner of the defunct site was ordered to destroy all of Nintendo pirated games they had. This was done anfter the owner hinted he might try to re-stablish the site again."
+        "name":"RomUniverse owner is ordered to dea settlesstroy it's pirated games",
+        "description": "The owner of the defunct site was ordered to destroy all of Nintendo pirated games they had. This was done after the owner hinted he might try to rre-establishe-stablish the site again."
     },
     {
         "url": "https://kotaku.com/nintendo-s-lawsuit-forces-japanese-dev-to-cough-up-30-1847420631",
         "icon":"balance.svg",
         "date":"2021-08-04",
-        "name":"A Japanese dev loses lawsuit and it sattles for millions",
         "description":"Nintendo sued developer Colopl over patent infringements, the damages Nintendo claimed continued to increase and Colopl decided to settle with for $30 million instead of continuing the lawsuit."
     },
     {
@@ -130,7 +136,6 @@
         "icon":"law.svg",
         "date":"2021-04-17",
         "name":"Gary Bowser is sued",
-        "description": "A 51 year old Canadian and console hacker is sued by the company. According the Nintendo he was a member of the hack group, Team Xecuter."
     },
     {
         "url": "https://www.polygon.com/22381771/nintendo-dmca-bowser-penis-copyright-patreon-sfm",
@@ -263,14 +268,14 @@
         "icon":"block.svg",
         "date":"2020-02-01",
         "name":"Animal Crossing: New Horizons Only allows 1 island per console",
-        "description":"No matter how many accounts or copies of the game players have, the game only allows one island per console. Previous versions of the franchise worked similarly on past hardware, but the company did not provide an explanation this time."
+        "description":"No matter how many accounts or copies of the game players have, the game only allows one island per console. Previous versions of the franchise worked similarly on past hardware, but the company did not explain this time."
     },
     {
         "url": "https://www.gamesindustry.biz/articles/2019-09-11-nintendo-sues-rom-site",
         "icon":"law.svg",
         "date":"2019-09-11",
         "name":"RomUniverse is taken to court",
-        "description": "Nintendo filed a lawsuit against ROM site, RomUniverse, for copyright and trademak infirngement since the site distributed ROMs from games made by the company."
+        "description": "Nintendo filed a lawsuit against ROM site, RomUniverse, for copyright and trademark infringement since the site distributed ROMs from games made by the company."
     },
     {
         "url": "https://torrentfreak.com/nintendo-takes-down-facebook-tooled-donkey-kong-remake-190930/",
@@ -311,8 +316,8 @@
         "url": "https://www.eurogamer.net/articles/2019-04-20-nintendo-is-deleting-what-it-deems-inappropriate-super-smash-bros-ultimate-stages",
         "icon":"block.svg",
         "date":"2019-04-20",
-        "name":"Nintendo removes SSBU stages it deemed inappropiate or \"political\"",
-        "description": "Nintendo removed stages it deemed inappropiate, but also stages it considered to be a \"political statement\" like stages that contained the trans flag. Not all stages with trans flags were removed and the article suggest the company was struggling to moderate the content of the platform."
+        "name":"Nintendo removes SSBU stages it deemed inappropriate or \"political\"",
+        "description": "Nintendo removed stages it deemed inappropriate, but also stages it considered to be a \"political statement\" like stages that contained the trans flag. Not all stages with trans flags were removed and the article suggests the company was struggling to moderate the content of the platform."
     },
     {
         "url": "https://www.eurogamer.net/articles/2018-11-29-nintendo-scraps-creators-program-making-life-much-easier-for-youtubers",
@@ -494,7 +499,7 @@
         "icon":"balance.svg",
         "date":"2013-05-15",
         "name":"Nintendo claimed ad revenue on videos from users on youtube",
-        "description": "Nintendo used the Youtube content ID to claim revenue from user generated videos. The company registered it's copyright content on the system in order to include or claim money from video ads."
+        "description": "Nintendo used the Youtube content ID to claim revenue from user-generated videos. The company registered its copyright content on the system in order to include or claim money from video ads."
     },
     {
         "url": "http://web.archive.org/web/20181116062241/http://www.majorleaguegaming.com/news/league-speak-with-sundance-super-smash-bros-brawl-stream",
@@ -507,7 +512,7 @@
         "url": "https://www.engadget.com/2010-04-02-nintendo-shuts-down-fan-made-pokemon-mmo.html",
         "icon":"law.svg",
         "date":"2010-04-02",
-        "name":"A fan made Pokémon MMO was shut down",
+        "name":"A fan-made Pokémon MMO was shut down",
         "description": "A group of fans created an MMO version of Pokémon and Nintendo sent a cease and desist letter requesting them to take down the website and surrender the domain name too."
     },
     {
